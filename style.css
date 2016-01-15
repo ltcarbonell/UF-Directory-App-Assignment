@@ -6,3 +6,18 @@
   max-height: 400px;
   overflow: auto;
 }
+
+body {
+    background-color: #B6BFDC;
+}
+
+#table tr:nth-child(even) {
+    background-color: #F3825C;
+}
+#table tr:nth-child(odd) {
+    background-color: #fff;
+}
+#table th {
+    color: white;
+    background-color: #24387A;
+}
